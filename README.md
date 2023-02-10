@@ -1,6 +1,3 @@
-The front-end: Show an article
+# Task - Production Deploy
 
-- Route
-- Controller#action
-- Model/db table
-- View
+Deploy to production using Heroku (optional) - production hosting service
